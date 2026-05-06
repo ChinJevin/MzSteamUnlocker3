@@ -37,3 +37,6 @@ manifest支持导入key.vdf。
 3.0.6-beta：
 新增了Steam主题。
 修复了个别奇怪的猫话。
+
+3.0.7-beta：
+加强小猫鼻子。
