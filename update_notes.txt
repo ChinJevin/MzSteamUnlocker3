@@ -63,3 +63,7 @@ manifest支持导入key.vdf。
 3.0.10-beta：
 让小猫脑子不那么健忘。
 修复窗口不出现在屏幕中央的问题。
+
+3.0.0:
+加强小猫鼻子。
+修改了lst存放目录，旧版本的用户建议删除目录下残留的BilibiliVideos.lst、GameGuide.lst、GameNews.lst、PopularNew.lst文件。
