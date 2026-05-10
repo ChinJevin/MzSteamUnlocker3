@@ -67,3 +67,10 @@ manifest支持导入key.vdf。
 3.0.0:
 加强小猫鼻子。
 修改了lst存放目录，旧版本的用户建议删除目录下残留的BilibiliVideos.lst、GameGuide.lst、GameNews.lst、PopularNew.lst文件。
+
+3.0.1:
+修复Steamworks常见可再发行文件路径安装错误的问题（重要），如果之前使用过这个安装，请清除之前错误路径里的文件（\Steam\steamapps\common\common\Steamworks Shared）。
+
+修复模拟工具设置无显示问题。
+修复模拟工具设置不生效问题。
+添加下载管理的manifest的右键菜单"查看游戏更新内容"选项。
